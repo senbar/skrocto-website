@@ -1,0 +1,4 @@
+{
+    "summarizeUrl" : "api/summarizeText",
+    "postmanTestUrl" : "https://ccd4cc6a-14e3-44e9-9a60-09d2809ea93d.mock.pstmn.io/test"
+}
